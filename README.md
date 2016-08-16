@@ -14,3 +14,4 @@ Metaballs
 * [Performance toughts on metaball calulation](http://stackoverflow.com/questions/17177748/increasing-real-time-performance-on-canvas-effects)
 * [WebGL example of metaballs](http://oos.moxiecode.com/js_webgl/metaballs_soup/)
 * [Canvas example of metaballs with matching squares alghoritm](https://codepen.io/ge1doot/pen/RNdwQB)
+* [Old Flash implementation of metaballs](http://labs.byhook.com/2011/09/26/vector-metaballs/)
