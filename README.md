@@ -16,6 +16,7 @@ Metaballs
 * [Canvas example of metaballs with matching squares alghoritm](https://codepen.io/ge1doot/pen/RNdwQB)
 * [Old Flash implementation of metaballs](http://labs.byhook.com/2011/09/26/vector-metaballs/)
 * [WebGL implementation of metaballs by https://github.com/jlfwong](http://jamie-wong.com/2016/07/06/metaballs-and-webgl/)
+* [Dynamic metaballs with repulsive force](https://github.com/flannelhead/dynaballs)
 
 Particles
 
