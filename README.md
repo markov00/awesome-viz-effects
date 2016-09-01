@@ -20,6 +20,7 @@ Metaballs
 * [Dynamic metaballs with repulsive force](https://github.com/flannelhead/dynaballs)
 * [WebGL Curl Noise & Marching Cubes](https://vimeo.com/142276120)
 * [Metaball experiment with webgl](https://github.com/andrelaszlo/webgl)
+* [An implementation of the Marching Squares algorithm in canvas by kzf.github.io](http://codepen.io/kzf/pen/dPoqgK)
 
 Particles
 
