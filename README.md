@@ -19,6 +19,7 @@ Metaballs
 * [Explanation of Marchin squares and metaballs algorithms](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
 * [Dynamic metaballs with repulsive force](https://github.com/flannelhead/dynaballs)
 * [WebGL Curl Noise & Marching Cubes](https://vimeo.com/142276120)
+* [Metaball experiment with webgl](https://github.com/andrelaszlo/webgl)
 
 Particles
 
