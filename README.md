@@ -21,6 +21,7 @@ Metaballs
 * [WebGL Curl Noise & Marching Cubes](https://vimeo.com/142276120)
 * [Metaball experiment with webgl](https://github.com/andrelaszlo/webgl)
 * [An implementation of the Marching Squares algorithm in canvas by kzf.github.io](http://codepen.io/kzf/pen/dPoqgK)
+* 💣[Metaballs SVG path math](http://varun.ca/metaballs/)
 
 Particles
 
