@@ -2,12 +2,8 @@
 
 A curated list of awesome frontend data visualization examples, related articles and posts.
 
-## Summary
-- [MetaBalls](#MetaBalls)
+### MetaBalls/Goo/Gooely/Lavalamp
 
-##MetaBalls/Goo/Gooely/Lavalamp
-
-Metaballs
 
 * [Paper.js metaball example](http://paperjs.org/examples/meta-balls/) Example of metaball path algorithms
 * [Example of metaball with double canvas rendering](https://github.com/paulojreis/canvas-meatballs)  
@@ -23,6 +19,6 @@ Metaballs
 * [An implementation of the Marching Squares algorithm in canvas by kzf.github.io](http://codepen.io/kzf/pen/dPoqgK)
 * 💣[Metaballs SVG path math](http://varun.ca/metaballs/)
 
-Particles
+### Particles
 
 * [30.000 particles with grid and force](https://codepen.io/soulwire/pen/Ffvlo)
